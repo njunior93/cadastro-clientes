@@ -3,7 +3,7 @@
         "nome": "Anne",
         "cpf": 23142127038,
         "ano": 1998,
-        "sexo": Feminino,
+        "sexo": "Feminino",
         "idade": 25
     },
 
@@ -11,7 +11,7 @@
         "nome": "Paulo",
         "cpf": 46184999079,
         "ano": 1996,
-        "sexo": Masculino,
+        "sexo": "Masculino",
         "idade": 25
     },
 
@@ -19,7 +19,7 @@
         "nome": "Ricardo",
         "cpf": 06140435064,
         "ano": 1993,
-        "sexo": Masculino,
+        "sexo": "Masculino",
         "idade": 30
     },
 
@@ -27,7 +27,7 @@
         "nome": "Paula",
         "cpf": 87504990094,
         "ano": 1996,
-        "sexo": Feminino,
+        "sexo": "Feminino",
         "idade": 23
     },
 
@@ -35,7 +35,7 @@
         "nome": "Borges",
         "cpf": 09413172005,
         "ano": 1994,
-        "sexo": Masculino,
+        "sexo": "Masculino",
         "idade": 29
     }
 
