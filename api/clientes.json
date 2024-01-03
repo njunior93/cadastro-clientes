@@ -1,4 +1,4 @@
-{"clientes": [{
+[{
 		"nome": "Anne",
 		"cpf": 23142127038,
 		"ano": 1998,
@@ -37,4 +37,4 @@
 		"sexo": "Masculino",
 		"idade": 29
 	}
-]}
+]
