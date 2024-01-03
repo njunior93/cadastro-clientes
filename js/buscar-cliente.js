@@ -1,4 +1,4 @@
-var botaoBuscar = document.querySelector('.btBuscar')
+/*var botaoBuscar = document.querySelector('.btBuscar')
 
 botaoBuscar.addEventListener("click", function(){
     var xhr = new XMLHttpRequest();
@@ -22,4 +22,19 @@ botaoBuscar.addEventListener("click", function(){
 
     xhr.send();
     
-})
+})*/
+
+var botaoBuscar = document.querySelector('.btBuscar');
+
+botaoBuscar.addEventListener("click", function(){
+
+    fetch('https://api.npoint.io/53211542d5231e6ec77c')
+    .then(reposta => reposta.json())
+    .then(dados =>{
+
+        for (i in dados){
+            adicionaClienteNaTabela(dados[i])
+        }
+         
+    })
+});
