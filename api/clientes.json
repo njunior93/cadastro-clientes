@@ -1,0 +1,40 @@
+[{
+		"nome": "Anne",
+		"cpf": 23142127038,
+		"ano": 1998,
+		"sexo": "Feminino",
+		"idade": 25
+	},
+
+	{
+		"nome": "Paulo",
+		"cpf": 46184999079,
+		"ano": 1996,
+		"sexo": "Masculino",
+		"idade": 25
+	},
+
+	{
+		"nome": "Ricardo",
+		"cpf": 52268594068,
+		"ano": 1993,
+		"sexo": "Masculino",
+		"idade": 30
+	},
+
+	{
+		"nome": "Paula",
+		"cpf": 43545527018,
+		"ano": 1996,
+		"sexo": "Feminino",
+		"idade": 23
+	},
+
+	{
+		"nome": "Borges",
+		"cpf": 13644055041,
+		"ano": 1994,
+		"sexo": "Masculino",
+		"idade": 29
+	}
+]
